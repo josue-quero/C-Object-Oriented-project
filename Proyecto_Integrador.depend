@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1575336896 source:c:\users\oshia\onedrive\documentos\c++\proyecto_integrador\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
+1575178051 c:\users\oshia\onedrive\documentos\c++\proyecto_integrador\vuelo.h
+	<string>
+	"Tiempo.h"
+
+1575303588 c:\users\oshia\onedrive\documentos\c++\proyecto_integrador\tiempo.h
+
+1575301816 c:\users\oshia\onedrive\documentos\c++\proyecto_integrador\pasajero.h
+	<string>
+
+1575303535 source:c:\users\oshia\onedrive\documentos\c++\proyecto_integrador\main1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Vuelo.h"
+	"Pasajero.h"
+
